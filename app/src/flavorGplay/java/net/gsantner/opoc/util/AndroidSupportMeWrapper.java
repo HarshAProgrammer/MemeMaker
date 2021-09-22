@@ -8,10 +8,10 @@
  *     https://github.com/gsantner/opoc/#licensing
  *
 #########################################################*/
-package net.gsantner.opoc.util;
+package net.rackluxury.opoc.util;
 
 import android.app.Activity;
-import net.gsantner.opoc.util.ActivityUtils;
+import net.rackluxury.opoc.util.ActivityUtils;
 
 public class AndroidSupportMeWrapper extends ActivityUtils {
 

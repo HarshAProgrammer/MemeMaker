@@ -27,7 +27,7 @@
     android:layout_height="match_parent"
     android:background="@color/black"
     android:fitsSystemWindows="true"
-    tools:context="net.gsantner.memetastic.activity.ImageViewActivity">
+    tools:context="net.rackluxury.memetastic.activity.ImageViewActivity">
 
     <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"

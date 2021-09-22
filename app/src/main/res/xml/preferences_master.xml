@@ -127,7 +127,7 @@
             android:summary="@string/download_latest_assets_message__appspecific"
             android:title="@string/download_latest_assets" />
 
-        <net.gsantner.opoc.preference.LanguagePreferenceCompat
+        <net.rackluxury.opoc.preference.LanguagePreferenceCompat
             android:icon="@drawable/ic_language_black_24dp"
             android:key="@string/pref_key__language"
             android:summary="@string/language_change_restart_description"
